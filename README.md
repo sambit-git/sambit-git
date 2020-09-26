@@ -13,7 +13,7 @@ Welcome to my profile!
 - 📫 How to reach me: **sambit.kumar142@gmail.com**
 <!-- - 😄 Pronouns: ... -->
 <!--  -->
-- ⚡ Fun fact: **I'm a technology enthusiast who loves arts and spiritual**
+- ⚡ Fun fact: **I'm a technology enthusiast who loves arts**
 
 ## Profile Stats:
 
