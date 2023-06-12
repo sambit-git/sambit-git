@@ -2,18 +2,18 @@
 
 Welcome to my profile!
 
-- 🔭 I’m currently working on - **Various Small Projects**
+- 🔭 I’m currently working on - **Django Machine Learning Projects**
 <!--  -->
-- 🌱 I’m currently learning - **Python and Flutter**
+- 🌱 I’m currently learning - **AI and ML, UX Design and Flutter**
 <!--  -->
-- 👯 I’m looking to collaborate on - **Python open source projects**
+- 👯 I’m looking to collaborate on - **python projects**
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about - **Technology**
 <!--  -->
 - 📫 How to reach me: **sambit.kumar142@gmail.com**
 <!-- - 😄 Pronouns: ... -->
 <!--  -->
-- ⚡ Fun fact: **I'm a technology enthusiast who loves arts**
+- ⚡ Fun fact: **I'm a technology enthusiast who loves arts and creativity**
 
 ## Profile Stats:
 
